@@ -146,8 +146,6 @@ async def plan(client, message):
         ],[
             InlineKeyboardButton('💎 ᴅɪᴀᴍᴏɴᴅ ', callback_data='diamond'),
             InlineKeyboardButton('🤦 ᴏᴛʜᴇʀ ', callback_data='other')
-        ],[
-            InlineKeyboardButton('ɢᴇᴛ ғʀᴇᴇ ᴛʀᴀɪʟ ғᴏʀ 𝟻 ᴍɪɴᴜᴛᴇs ☺️', callback_data='free')
         ],[            
             InlineKeyboardButton('❌ ᴄʟᴏꜱᴇ ❌', callback_data='close_data')
     ]]
